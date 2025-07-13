@@ -110,10 +110,10 @@ Projet_AL_Groupe_4_DIC2_INFO/
 ├── backend/                # Spring Boot backend
 │   ├── src/main/java/com/actu/backend/
 │   │   ├── soap/          # SOAP Web Services
-│   │   │   ├── UserEndpoint.java      # User management (125 lines)
-│   │   │   ├── TokenEndpoint.java     # Token management (180 lines)
-│   │   │   ├── AuthEndpoint.java      # Authentication (120 lines)
-│   │   │   └── UserMapper.java        # Data mapping utilities (70 lines)
+│   │   │   ├── UserEndpoint.java      # User management
+│   │   │   ├── TokenEndpoint.java     # Token management
+│   │   │   ├── AuthEndpoint.java      # Authentication
+│   │   │   └── UserMapper.java        # Data mapping utilities
 │   │   ├── model/         # Domain entities
 │   │   ├── repository/    # Data access layer
 │   │   └── security/      # JWT and security
