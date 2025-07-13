@@ -101,7 +101,7 @@ python main.py
 ## 📁 Project Structure
 
 ```
-actu/
+Projet_AL_Groupe_4_DIC2_INFO/
 ├── actu-frontend/          # Next.js React frontend
 │   ├── src/
 │   ├── public/
